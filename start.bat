@@ -1,0 +1,1 @@
+cmd /k "venv\scripts\activate.bat & jupyter notebook --no-browser"
